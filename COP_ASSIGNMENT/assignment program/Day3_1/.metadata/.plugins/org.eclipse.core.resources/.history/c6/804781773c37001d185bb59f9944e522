@@ -1,0 +1,19 @@
+package Day3_1;
+
+public class ASCIIvalue {
+
+	public static void main(String[] args) {
+	
+    char ch =  'a';
+    int Ascii = ch;
+    
+    
+     int castAscii=(int) ch;
+       
+   
+		
+		System.out.println("the ASCII value of" +   ch + " is: "+castAscii);
+		
+	}
+
+}

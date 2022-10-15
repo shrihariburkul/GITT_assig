@@ -1,0 +1,25 @@
+package Day3_1;
+
+import java.util.Scanner;
+
+public class reverseNum {
+
+	public static void main(String[] args) {
+		
+		
+		       
+		        Scanner in = new Scanner(System.in);
+		        System.out.println("Enter three digit number");
+		        int num = in.nextInt();
+		        int a = num % 10;
+		        num = num / 10;
+		        int b = num % 10;
+		        int c = num / 10;
+		        // int rev = (a * 100) + (b * 10) + c;
+		        System.out.println("The reverce of given number is" + a + b + c);
+		       
+		
+		
+	}
+
+}

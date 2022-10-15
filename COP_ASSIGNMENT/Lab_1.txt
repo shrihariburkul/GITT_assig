@@ -1,0 +1,23 @@
+Q 1 Java program to print welcome message.
+Q 2 Java program to print sum of  three float numbers
+Q 3 Java Program to Swap Two Numbers
+Q 4 Wap to check if number is even or odd 
+Q 5 wap to check from three given number  that whether a number is greater than or equal to 20 and less than other numbers .print appropriate message .
+
+Q 7 wap to check if sales of a person is greater than 10000 then eligible for bonus 
+else not eligible calculate bonus as 20% of sales .
+
+Q 8 wap to check if two given integer value is in range of 18 and 100 print eligible for voting else not eligible .
+Q 9 wap to print average of  given five subjects marks of student and check if average >=40 print Pass else print fail
+
+
+
+Q10 WAP to ask name ,age and salary of an employee and print on console.
+ 
+ 
+Q 11 wap  that ask two numbers from user and print greater number among two 
+ 
+ 
+Q 12  wap to ask product name and price of product from user and calculate discount i.e 
+if price > 2000 then discount is 10 percent of price 
+else discount is 7 % of price

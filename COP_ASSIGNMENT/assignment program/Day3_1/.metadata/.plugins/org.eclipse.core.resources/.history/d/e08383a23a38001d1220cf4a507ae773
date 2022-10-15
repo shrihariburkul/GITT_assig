@@ -1,0 +1,46 @@
+package Day3_1;
+
+import java.util.Scanner;
+
+public class Employee {
+
+	public static void main(String[] args) {
+
+		String Name1,Name2,Name3;
+		Double Salary1,Salary2,Salary3;
+		String Add1,Add2,Add3;
+		int JoY1,JoY2,JoY3;
+
+		// \n
+
+		Scanner sc = new Scanner(System.in);
+		 
+			System.out.println("enter first employee data : ");
+
+			Name1 = sc.next();
+			Salary1 = sc.nextDouble();
+			Add1 = sc.next();
+			JoY1 = sc.nextInt();
+
+			System.out.println("enter second employee data : ");
+            Name2 = sc.next();
+			Salary2 = sc.nextDouble();
+			Add2 = sc.next();
+			JoY2 = sc.nextInt();
+
+			System.out.println("enter third employee data : ");
+            Name3 = sc.next();
+			Salary3 = sc.nextDouble();
+			Add3 = sc.next();
+			JoY3 = sc.nextInt();
+
+			
+			 System.out.println(Name1+ " " + Salary1+ "  " +Add1    + JoY1 );
+		     System.out.println (Name2+" " + Salary2+ "  " +Add2 + JoY2);
+		 
+		     System.out.println (Name3+" " + Salary3+ "  " +Add3 + JoY3);
+			 
+			
+		}
+	}
+

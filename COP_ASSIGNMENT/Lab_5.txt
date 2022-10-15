@@ -1,0 +1,15 @@
+1 wap to define an array of integer of size 6 .Take input from user and display it in reverse order
+2 wap to ask 5 names from user and check if particular name exists in array or not .
+3 wap to define an array of integer and assign value in program and print sum of all values
+4 wap to print max and minimum value in given array
+5 wap to find and print even numbers in given array
+6 wap to find and print prime numbers in given array
+7 wap to search a particular number in given array and print its position
+
+------------------------------------------------------------
+8 wap to reverse  a given array 
+9 wap to define two  3 * 3 matrix .ask values from user and print their sum in third matrix of same size 
+10 wap to sort an array using bubble sort 
+11wap to search a particular element in given array using binary search technique
+12 wap to find the largest element in one dimensional array 
+13 wap to find largest element in each row in two dimensional array

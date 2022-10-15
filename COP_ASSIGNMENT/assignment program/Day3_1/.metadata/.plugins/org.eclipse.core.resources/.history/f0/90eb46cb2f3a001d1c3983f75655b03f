@@ -1,0 +1,16 @@
+package Day4_1;
+
+public class Evennum1_20 {  
+ 
+public static void main(String []args) {
+	int num=20;
+	
+	System.out.println("even in up to 20 is  :");
+	for( int i=1;i<=20;i++)
+	 if( i%2==0 ) {
+	System.out.println( i+ "");
+	      }		 
+        }
+	 }
+
+

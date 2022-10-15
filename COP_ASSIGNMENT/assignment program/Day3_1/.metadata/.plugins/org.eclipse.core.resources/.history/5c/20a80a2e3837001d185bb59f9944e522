@@ -1,0 +1,24 @@
+
+public class sumofnnuminrange {
+
+	public static void main(String[] args) {
+		  
+		
+		int Sum =0;
+		 int i;
+		for( i=101 ;i<200 ; i++ )
+		
+		
+     if (i % 7==0) 
+    	 
+    	 Sum = Sum+i ;
+     
+     
+     System.out.println("Sum of total num from 100 to 200 divisible by 7 is : " +Sum);
+     
+     
+    	 
+     }
+	}
+
+

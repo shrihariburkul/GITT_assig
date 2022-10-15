@@ -1,0 +1,29 @@
+package Day3_1;
+
+import java.util.Scanner;
+
+public class evenNum {
+
+	public static void main(String[] args) {
+		 
+		
+		
+		int Num;
+		
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter Num");
+		Num=sc.nextInt();
+		
+		for ( int  i=10; i<= 20; i++ )
+			
+		{
+			if( i%2==0)
+		{
+			System.out.println("Num is even");
+	}
+		else {
+			System.out.println("Num is odd");
+		}
+	}
+}
+}

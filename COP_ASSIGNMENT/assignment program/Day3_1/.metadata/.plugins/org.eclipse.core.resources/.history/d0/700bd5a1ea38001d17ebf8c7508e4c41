@@ -1,0 +1,26 @@
+package Day3_1;
+
+import java.util.Scanner;
+
+public class basicSalary {
+
+	public static void main(String[] args) {
+		double Salary;
+		float HRA=0;
+		float DA=0;
+		
+		 Scanner sc= new Scanner(System.in);
+		 System.out.println( "enter the salary ");
+		 Salary=sc.nextDouble();
+		 if( Salary<=10000 ) 
+			 {
+				HRA=.2f;
+			    DA=.8f;
+				
+				HRA=sc.nextFloat();
+				DA=sc.nextFloat();
+			 }
+      System.out.println("salary : "+Salary+   "HRA :" + HRA +  "  " + "DA  : " + DA);
+	}
+	}
+

@@ -1,0 +1,25 @@
+package Day3_1;
+
+import java.util.Scanner;
+
+public class ASCIIvalue {
+
+	public static void main(String[] args) {
+	
+    char 'ch' ;
+    int Ascii = ch;
+    
+    
+     int castAscii=(int) ch;
+       
+   Scanner sc= new Scanner("System.in");
+   
+		System.out.println("enter the ch");
+		
+		ASCII=sc.next();
+		
+		System.out.println("the ASCII value of  " +ch + " is: "+castAscii);
+		
+	}
+
+}

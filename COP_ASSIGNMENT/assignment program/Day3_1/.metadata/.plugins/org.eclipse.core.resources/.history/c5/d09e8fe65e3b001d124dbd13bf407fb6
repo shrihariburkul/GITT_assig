@@ -1,0 +1,26 @@
+package assig4;
+
+public class palindrome {
+
+	public static void main(String[] args) {
+		
+		
+		String s1= new String("MADAM");
+		
+		int l= s1.length()/2;
+		int i;
+		int j = s1.length()-1;
+		   
+	    for( i=0,j=s1.length()-1;i<l;i++,j--)
+	{
+		if(s1.charAt(i)!=s1.charAt(j))
+		{
+			System.out.println("String is not palindrom");
+			break;
+		}
+	}
+if (i==l)
+	System.out.println("String is palindrom");
+	}
+	}
+

@@ -1,0 +1,47 @@
+1.     Write a program to find sum
+of all integers greater than 100 and less than 200 that are divisible by 7.
+
+
+ 2 Write a program in java that ask three numbers from
+user and print the greatest among three .
+3. WAP to find  ASCII value of a character .
+
+
+4. Java Program to Check Whether an Alphabet is Vowel or Consonant
+5 Check if a Number is Positive or Negative using if else
+6 WAP for swapping two numbers without using third variable
+7 Write a program that would print the information (name,
+year of joining, salary, address) of three employees by creating a class named
+'Employee'. The output should be as follows:
+
+
+Name           Year of joining        Address
+
+
+Ashish          
+1994                       64C- WallsStreat
+
+
+Sam               
+2000                     68D- WallsStreat
+
+
+John               
+1999                    26B- WallsStreat 
+
+
+8 WAP to input basic salary of an employee and calculate its
+Gross salary according to following:
+
+
+Basic Salary <= 10000 : HRA = 20%, DA = 80%
+
+
+Basic Salary <= 20000 : HRA = 25%, DA = 90%
+
+
+Basic Salary > 20000 : HRA = 30%, DA = 95%
+
+
+Q  8 Q  wap to print even numbers between 10 to 20Q  9 wap to check if a number is prime or not
+Q 10 wap to reverse a given digit   123   321

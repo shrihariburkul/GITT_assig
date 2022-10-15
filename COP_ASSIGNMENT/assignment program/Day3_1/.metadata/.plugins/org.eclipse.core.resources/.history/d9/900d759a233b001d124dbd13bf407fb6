@@ -1,0 +1,20 @@
+package Assing3;
+
+public class abcdPatternwithSpace {
+
+	public static void main(String[] args) {
+	char r ='A';
+	
+		for( int i=1;i<=4;i++)
+		{
+			 r='A';
+			for( int j=4;j>=i;j--)
+			{	
+				System.out.println(r);
+			      r++;
+		}
+	
+System.out.println();
+	}
+	}
+}

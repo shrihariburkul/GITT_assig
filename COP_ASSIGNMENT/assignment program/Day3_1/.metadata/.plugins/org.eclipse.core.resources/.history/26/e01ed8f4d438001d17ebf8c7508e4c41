@@ -1,0 +1,31 @@
+package Day3_1;
+
+import java.util.Scanner;
+
+public class primeNum {
+
+	public static void main(String[] args) {
+
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter num : ");
+		int num = sc.nextInt();
+		int i;
+		if (num == 1) {
+			System.out.println("Prime start from 2");
+		}
+
+		for (i = 2; i < num;)
+		{
+			if (num % i == 0) 
+				System.out.println(" num is not prime");
+				i++;
+			}
+
+			if (num == i) 
+				System.out.println("num is prime");
+			
+		}
+
+
+	}

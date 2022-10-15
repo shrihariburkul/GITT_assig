@@ -1,0 +1,40 @@
+String lab
+pgdac march22
+•
+20 Sept
+Due Today
+🠶Q1 wap to  initialize
+string by assigning value in program  and display it 
+
+
+
+🠶Q 2 wap to ask two string
+values from user and check if they are equal or not 
+
+
+
+🠶Q 3 wap to compare two
+strings 
+
+
+
+🠶Q 4 wap to print string
+character by character
+
+
+
+🠶Q 5 wap to check if string is
+palindrome or not 
+
+
+
+🠶Q 6 wap to count number of
+vowels and consonants in string 
+
+
+
+🠶Q 7 wap to count number of
+words in given string 
+
+Q 8wap to reverse word in given string 
+Q 9 wap to ask string from user and search for particular character in given string  .if found print " Found message " else print not found"

@@ -1,0 +1,26 @@
+package Day3_1;
+
+import java.util.Scanner;
+
+public class vowelORconsonant {
+
+	public static void main(String[] args) {
+
+		char ch = 0;
+		
+		Scanner sc= new Scanner(System.in);
+		System.out.print("enter the char : ");
+       ch=sc.next().charAt(ch);	
+		
+		
+		
+		
+		if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u' ) {
+			System.out.println(ch+" is vowel");
+		}
+		else {
+			System.out.println("ch is consonant");
+			
+		}
+}
+}

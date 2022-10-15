@@ -1,0 +1,20 @@
+package Day3_1;
+
+import java.util.Scanner;
+
+public class SumofNum {
+
+	public static void main(String[] args) {
+	 
+		 int sum=0;
+		Scanner sc=new Scanner(System.in);
+		for(int i=100;i<=200;i++) {
+		 if (i%7==0);
+		 
+		 sum=sum+i;
+		}
+		 System.out.println( "total sum is : " +sum);
+		
+			
+	}
+}
